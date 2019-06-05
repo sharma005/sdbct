@@ -1,0 +1,244 @@
+/*****INDEX AND ACADAMICS***/
+
+/**STYLING INDEX/HOME PADE **/
+
+
+.page
+ {
+ 	width:1500px;
+	height:auto;
+	
+
+}
+
+.headerpart
+{
+	width:1500px;
+	height:210px;
+	
+	background-image:url("images/Screenshot1.jpg");
+    border-radius: 5px;
+	
+
+}
+
+.linkspart
+{
+	
+	width:1500px;
+	height:20px;
+	margin-top:5px;
+	background-color:rgb(12,100,198);
+	background-style:groove;
+}
+
+.linkspart a
+{
+	color:rgb(245,246,251);
+	text-decoration:none;
+
+}
+
+.linkspart a:hover
+{
+	background-color:rgb(245,246,251);
+	color:rgb(12,100,198);
+
+}
+
+.bodypart
+{
+	width:1500px;
+	height:1100px;
+	
+	margin-top:5px;
+
+}
+
+.bodypart .imagepart
+{
+	width:500px;
+	height:300px;
+	border:1px solid powderblue; 
+	background-image:url('images/Photo.gif');
+	background-repeat:no-repeat;
+	
+	display:inline-block
+}
+
+
+
+
+.bodypart .imagepart1
+{
+	width:500px;
+	height:300px;
+	
+	border:1px solid powderblue;
+	background-image:url('images/Placements.gif');
+	background-repeat:no-repeat;
+	
+	display:inline-block
+}
+
+.bodypart .newspart
+{
+	width:320px;
+	height:580px;
+	border:2px solid powderblue;
+	box-shadow:2px 3px 15px darkred;
+	float:right;
+}
+
+.bodypart .newspart .news
+{
+	width:320px;
+	height:460px;
+	
+	float:right;
+}
+
+
+.bodypart .newspart h1
+{
+	color:red;
+	margin-left:30px;
+
+}
+
+
+.bodypart .newspart .news .h4
+{
+	text-color:red;
+}
+.bodypart h2
+{
+	color:darkred;
+	text-align:center;
+	
+}
+.bodypart h3
+{
+	color:red;
+	
+}
+
+
+.footerpart
+{
+	
+	width:1500px;
+	height:30px;
+	margin-top:5px;
+	background-color:rgb(12,100,198);
+	background-style:groove;
+    padding: 13px;
+    color: white;
+
+}
+
+
+.maindiv
+{
+	width:1400px;;
+	height:300px;
+	border-style:groove; 
+	margin-left:40px;
+	border:3px solid powderblue;
+	box-shadow: 5px 5px 18px black;
+	background-image:url('images/Placements.gif');
+	
+	
+
+}
+.bodypart h1
+{
+	color:darkred;
+    
+	
+	
+}
+
+/**.bodypart p{
+    
+    font-size:18px;
+}
+
+**/
+/**
+
+.bodypart .imagepart2
+{
+	width:700px;
+	height:700px;
+	
+	margin-top:80px;
+	margin-left:-4px;
+	
+	background-image:url('images/intro.gif');
+	background-repeat:no-repeat;
+	
+}**/
+
+.bodypart .newspart1
+{
+	width:320px;
+	height:500px;
+	border-style:groove; 
+	float:right;
+}
+
+.bodypart .newspart1 .news
+{
+	width:320px;
+	height:460px;
+	
+	float:right;
+}
+
+
+.bodypart .newspart1 h1
+{
+	color:red;
+	margin-left:30px;
+
+}
+
+
+
+.bodypart .newspart1 .news .h4
+{
+	color:red;
+	
+
+}
+
+
+/**********Acadamices**********/
+#acadamics .imagepart
+{
+    width: 800px;
+    height: 600px;
+    /**border: groove;**/
+    float:right;
+    margin-top: 5px;
+    background-image: url("images/acad-pic.gif");
+    
+    
+}
+
+
+#acadamics .department
+{
+    
+    width: 500px;
+    height:620px;
+   /** border: groove;**/
+    margin-left: 20px;
+}
+
+
+
+
+
+
