@@ -1,7 +1,7 @@
 *{margin:0; padding:0; box-sizing:border-box;font-family: 'Montserrat', sans-serif;}
 #contact{
-    width: auto;
-    height: 1800 px;
+    width: 1510px;
+    height: 1450px;
     
 }
 .site-headers{
@@ -111,13 +111,13 @@
 .footerpart
 {
 	
-	width:1520px;
+	width:1510px;
 	height:45px;
-	margin-top:5px;
+	margin-top:10px;
 	background-color:rgb(12,100,198);
 	background-style:groove;
-    padding: 13px;
-    color: white;
+	padding: 13px;
+	color: white;
 
 }
 
